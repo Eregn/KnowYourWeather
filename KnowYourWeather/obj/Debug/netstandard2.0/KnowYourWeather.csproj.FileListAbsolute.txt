@@ -1,0 +1,17 @@
+C:\Users\eregn\source\repos\KnowYourWeather\KnowYourWeather\KnowYourWeather\bin\Debug\netstandard2.0\KnowYourWeather.deps.json
+C:\Users\eregn\source\repos\KnowYourWeather\KnowYourWeather\KnowYourWeather\bin\Debug\netstandard2.0\KnowYourWeather.dll
+C:\Users\eregn\source\repos\KnowYourWeather\KnowYourWeather\KnowYourWeather\bin\Debug\netstandard2.0\ref\KnowYourWeather.dll
+C:\Users\eregn\source\repos\KnowYourWeather\KnowYourWeather\KnowYourWeather\bin\Debug\netstandard2.0\KnowYourWeather.pdb
+C:\Users\eregn\source\repos\KnowYourWeather\KnowYourWeather\KnowYourWeather\obj\Debug\netstandard2.0\KnowYourWeather.csproj.AssemblyReference.cache
+C:\Users\eregn\source\repos\KnowYourWeather\KnowYourWeather\KnowYourWeather\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\eregn\source\repos\KnowYourWeather\KnowYourWeather\KnowYourWeather\obj\Debug\netstandard2.0\KnowYourWeather.AssemblyInfoInputs.cache
+C:\Users\eregn\source\repos\KnowYourWeather\KnowYourWeather\KnowYourWeather\obj\Debug\netstandard2.0\KnowYourWeather.AssemblyInfo.cs
+C:\Users\eregn\source\repos\KnowYourWeather\KnowYourWeather\KnowYourWeather\obj\Debug\netstandard2.0\KnowYourWeather.csproj.CoreCompileInputs.cache
+C:\Users\eregn\source\repos\KnowYourWeather\KnowYourWeather\KnowYourWeather\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\eregn\source\repos\KnowYourWeather\KnowYourWeather\KnowYourWeather\obj\Debug\netstandard2.0\KnowYourWeather.dll
+C:\Users\eregn\source\repos\KnowYourWeather\KnowYourWeather\KnowYourWeather\obj\Debug\netstandard2.0\ref\KnowYourWeather.dll
+C:\Users\eregn\source\repos\KnowYourWeather\KnowYourWeather\KnowYourWeather\obj\Debug\netstandard2.0\KnowYourWeather.pdb
+C:\Users\eregn\source\repos\KnowYourWeather\KnowYourWeather\KnowYourWeather\obj\Debug\netstandard2.0\Views\PreferencePage.xaml.g.cs
+C:\Users\eregn\source\repos\KnowYourWeather\KnowYourWeather\KnowYourWeather\obj\Debug\netstandard2.0\Views\WeatherPage.xaml.g.cs
+C:\Users\eregn\source\repos\KnowYourWeather\KnowYourWeather\KnowYourWeather\obj\Debug\netstandard2.0\Views\WelcomePage.xaml.g.cs
+C:\Users\eregn\source\repos\KnowYourWeather\KnowYourWeather\KnowYourWeather\obj\Debug\netstandard2.0\Views\Localisationxaml.xaml.g.cs
